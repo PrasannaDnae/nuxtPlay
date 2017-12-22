@@ -1,0 +1,2 @@
+# nuxtPlay
+Trying out nuxt 
